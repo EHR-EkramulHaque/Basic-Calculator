@@ -1,0 +1,10 @@
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\bin\Debug\SampleCalculator.exe.config
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\bin\Debug\SampleCalculator.exe
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\bin\Debug\SampleCalculator.pdb
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\obj\Debug\SampleCalculator.csproj.AssemblyReference.cache
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\obj\Debug\SampleCalculator.Form1.resources
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\obj\Debug\SampleCalculator.Properties.Resources.resources
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\obj\Debug\SampleCalculator.csproj.GenerateResource.cache
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\obj\Debug\SampleCalculator.csproj.CoreCompileInputs.cache
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\obj\Debug\SampleCalculator.exe
+E:\CODES\C Sharp\FINAL\SampleCalculator_Sol\SampleCalculator\obj\Debug\SampleCalculator.pdb
